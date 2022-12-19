@@ -26,7 +26,7 @@ extras = {
     "blurhash": blurhash_deps,
 }
 
-setup(name='Mastodon.py',
+setup(name='mastodon-py',
       version='1.8.0',
       description='Python wrapper for the Mastodon API',
       packages=['mastodon'],
